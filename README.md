@@ -1,4 +1,6 @@
-This repository contains a machine learning project designed to forecast stock price trends using the K-Nearest Neighbors (KNN) classification or regression algorithm.
+This repository contains My first machine learning project designed to forecast stock price trends using the K-Nearest Neighbors (KNN) classification or regression algorithm.
+
+This is my minor project for the Corizo machine learning course.
 
 Here is a breakdown of what the project entails based on the repository structure:
 
